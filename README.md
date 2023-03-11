@@ -9,3 +9,7 @@ Repo Code for Email Service Server : https://github.com/S-Amine/email_service
 Repo Code for Mobile Application Kyo : https://github.com/AbdeldjalilChougui/kyo_challenge
 
 Youtube video for the project : https://www.youtube.com/watch?v=YsBYEUN4tok
+
+Kyo Assistant Ux Study : https://drive.google.com/file/d/1rsnk4Uyk_YVxjOM5agvnMl2rNuPTe5nO/view
+
+Miro High Level Architecture : 
