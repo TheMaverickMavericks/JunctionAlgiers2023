@@ -2,7 +2,7 @@
 The Mavericks team repo for Junction Algiers 2023 Hackathon, Kyo Conseil Challenge
 
 
-Repo Code for Generating Micro Services Features : https://github.com/S-Amine/micro_django \n
+Repo Code for Generating Micro Services Features : https://github.com/S-Amine/micro_django
 
 Repo Code for Live Streaming Kyo ChatGpt Server : https://github.com/ahmedtouahria/kyo-chatgpt-live-streaming
 
