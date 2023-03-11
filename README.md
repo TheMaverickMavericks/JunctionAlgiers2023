@@ -16,4 +16,8 @@ Youtube video for the project : https://www.youtube.com/watch?v=YsBYEUN4tok
 
 Kyo Assistant Ux Study : https://drive.google.com/file/d/1rsnk4Uyk_YVxjOM5agvnMl2rNuPTe5nO/view
 
+Figma Mobile App Ui : https://www.figma.com/file/5qrU3AZxM8zwhFR4KmpL70/challenge?node-id=14%3A233
+
+Figma Chrome Extension Ui : https://www.figma.com/file/5qrU3AZxM8zwhFR4KmpL70/challenge?node-id=97%3A3980
+
 Miro High Level Architecture : https://miro.com/app/board/uXjVPiDTivc=/
